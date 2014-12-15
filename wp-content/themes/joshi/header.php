@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <link href="/wordpress/wp-content/themes/joshi/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<body>
+   
